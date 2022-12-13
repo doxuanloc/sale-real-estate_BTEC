@@ -1,0 +1,7 @@
+1#name#thanhtonvk@gmail.com#12345
+2#tuan#tuan@gmail.com#12345
+2#manager 1#ma@gmail.com#12345
+2#manager 2#tuan@gmail.com#12345
+1#admin#admin#admin
+1#Nguy?n Qu?c Hưng#hungnqbsaf200017@fpt.edu.vn#521
+2#521hung#asd@gmail.com#123
